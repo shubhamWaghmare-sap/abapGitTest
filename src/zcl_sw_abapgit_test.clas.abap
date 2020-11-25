@@ -6,7 +6,7 @@ CLASS zcl_sw_abapgit_test DEFINITION
   PUBLIC SECTION.
   PROTECTED SECTION.
   PRIVATE SECTION.
-  "Dummy Class Changes from local
+  "Dummy Class Changes from github 2
 ENDCLASS.
 
 
