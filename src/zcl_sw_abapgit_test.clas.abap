@@ -6,7 +6,7 @@ CLASS zcl_sw_abapgit_test DEFINITION
   PUBLIC SECTION.
   PROTECTED SECTION.
   PRIVATE SECTION.
-  "Dummy Class Changes from CWR
+  "Dummy Class Changes from CWR 2
 ENDCLASS.
 
 

@@ -6,6 +6,7 @@ CLASS zcl_sw_class_in_sub_package DEFINITION
   PUBLIC SECTION.
   PROTECTED SECTION.
   PRIVATE SECTION.
+  "SubPackage class
 ENDCLASS.
 
 
